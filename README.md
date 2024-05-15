@@ -14,7 +14,7 @@ Your team: 17
   
   - Student 3: Anas ROUAM 'AnasRouam'
 
-  - Student 4: Iliass RAZOKI 'iliassraz'
+  - Student 4: Iliass RAZOKI 'Iliass-razoki'
 
 ## Getting Started
 
