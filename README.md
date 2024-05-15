@@ -12,7 +12,7 @@ Your team: 17
 
   - Student 2: Yazid KHARROU 'KHARROUYazid'
   
-  - Student 3: Anas ROUAM 'Anasrouam'
+  - Student 3: Anas ROUAM 'AnasRouam'
 
   - Student 4: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
 
