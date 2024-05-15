@@ -8,9 +8,9 @@ Teams dashboards: [📝 google sheet](https://docs.google.com/spreadsheets/d/1bI
 
 Your team: group number ❔
 
-  - Student 1: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 1: Mohamed Saad LYAFI 'saadlf36'
 
-  - Student 2: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 2: Yazid KHARROU 'KHARROUYazid'
   
   - Student 3: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
 
